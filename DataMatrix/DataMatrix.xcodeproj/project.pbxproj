@@ -968,7 +968,7 @@
 				CURRENT_PROJECT_VERSION = 4.3.9;
 				DEVELOPMENT_TEAM = AR6JJT98A5;
 				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = /Users/niutingyu/Desktop/DataMartix/DataMatrix/DataMatrix/Configure/DataMatrix.header.h;
+				GCC_PREFIX_HEADER = DataMatrix/Configure/DataMatrix.header.h;
 				INFOPLIST_FILE = DataMatrix/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1003,7 +1003,7 @@
 				CURRENT_PROJECT_VERSION = 4.3.9;
 				DEVELOPMENT_TEAM = AR6JJT98A5;
 				ENABLE_BITCODE = NO;
-				GCC_PREFIX_HEADER = /Users/niutingyu/Desktop/DataMartix/DataMatrix/DataMatrix/Configure/DataMatrix.header.h;
+				GCC_PREFIX_HEADER = DataMatrix/Configure/DataMatrix.header.h;
 				INFOPLIST_FILE = DataMatrix/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
