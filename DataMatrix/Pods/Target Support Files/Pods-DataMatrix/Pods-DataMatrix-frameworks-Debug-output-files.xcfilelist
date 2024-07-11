@@ -1,3 +1,0 @@
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ScanKitFrameWork.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ScanditBarcodeCapture.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ScanditCaptureCore.framework
