@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DataMatrix/Pods-DataMatrix-resources.sh
+${PODS_ROOT}/LBXScan/LBXScan/UI/CodeScan.bundle
+${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle
+${PODS_ROOT}/ScanKitFrameWork/scansdk-ios-tool-1.0.2.300/ScanKitFrameWorkBundle.bundle

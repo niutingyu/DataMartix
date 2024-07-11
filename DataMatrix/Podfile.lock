@@ -1,0 +1,59 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - LBXScan/LBXNative (2.5.1):
+    - LBXScan/Types (~> 2.2)
+  - LBXScan/Types (2.5.1)
+  - LBXScan/UI (2.5.1):
+    - LBXScan/Types (~> 2.2)
+  - MJExtension (3.2.4)
+  - MJRefresh (3.5.0)
+  - ScanditBarcodeCapture (6.5.3):
+    - ScanditCaptureCore (= 6.5.3)
+  - ScanditCaptureCore (6.5.3)
+  - ScanKitFrameWork (1.0.2.300)
+
+DEPENDENCIES:
+  - AFNetworking
+  - LBXScan/LBXNative (~> 2.5)
+  - LBXScan/UI (~> 2.5)
+  - MJExtension
+  - MJRefresh
+  - ScanditBarcodeCapture
+  - ScanKitFrameWork (~> 1.0.2.300)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - LBXScan
+    - MJExtension
+    - MJRefresh
+    - ScanditBarcodeCapture
+    - ScanditCaptureCore
+    - ScanKitFrameWork
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  LBXScan: 90ca10d0c38fb4a5a6980d7782354f3f69f50093
+  MJExtension: 88e0900751b6cac8de1cf724ca9838a0b28d5acb
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  ScanditBarcodeCapture: 5c03438c43ef43d398501e8a7b96db6f0dfd6bfc
+  ScanditCaptureCore: 86891067187c554f1f9a396d709ea4d98156127f
+  ScanKitFrameWork: 0ad578f3db0ef9b64dd0f533d10d10a52ce93c80
+
+PODFILE CHECKSUM: b0ce3da53b40de8c4cf66a3b27a55737ac8d866f
+
+COCOAPODS: 1.10.1

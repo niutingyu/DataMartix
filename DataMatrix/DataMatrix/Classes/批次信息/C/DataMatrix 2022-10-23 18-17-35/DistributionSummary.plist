@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DataMatrix.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>3.3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C642DB9A8562B8E03B49FE8102751033F006A175</string>
+				<key>dateExpires</key>
+				<string>2022/10/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0.2</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C642DB9A8562B8E03B49FE8102751033F006A175</string>
+						<key>dateExpires</key>
+						<string>2022/10/25</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ScanKitFrameWork.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AR6JJT98A5</string>
+						<key>name</key>
+						<string>kun yan</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>6.5.3</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C642DB9A8562B8E03B49FE8102751033F006A175</string>
+						<key>dateExpires</key>
+						<string>2022/10/25</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ScanditBarcodeCapture.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AR6JJT98A5</string>
+						<key>name</key>
+						<string>kun yan</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>6.5.3</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>6.5.3</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C642DB9A8562B8E03B49FE8102751033F006A175</string>
+						<key>dateExpires</key>
+						<string>2022/10/25</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ScanditCaptureCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>AR6JJT98A5</string>
+						<key>name</key>
+						<string>kun yan</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>6.5.3</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>AR6JJT98A5.SL.DataMatrixCode</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>AR6JJT98A5</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>DataMatrix.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>81f8b776-1486-40cb-b22f-58b5cfc24f91</string>
+				<key>dateExpires</key>
+				<string>2022/10/25</string>
+				<key>name</key>
+				<string>DataMatrixAdvance</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>AR6JJT98A5</string>
+				<key>name</key>
+				<string>kun yan</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.6</string>
+		</dict>
+	</array>
+</dict>
+</plist>

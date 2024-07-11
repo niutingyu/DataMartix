@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DataMatrix/Pods-DataMatrix-frameworks.sh
+${PODS_ROOT}/ScanKitFrameWork/scansdk-ios-tool-1.0.2.300/ScanKitFrameWork.framework
+${PODS_ROOT}/ScanditBarcodeCapture/ScanditBarcodeCapture.framework
+${PODS_ROOT}/ScanditCaptureCore/ScanditCaptureCore.framework
